@@ -1,1 +1,4 @@
 # ignore all theses jaunts
+
+/PDFUnchained/PDFUnchained/*.py
+/PDFUnchained/manage.py
